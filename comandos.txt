@@ -1,0 +1,12 @@
+Git init
+Git commit
+Git add .
+Git push
+Git pull
+Git checkout
+mv
+mkdir
+touch
+nano
+rm -r
+
